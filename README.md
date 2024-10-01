@@ -20,4 +20,20 @@ The images were downscaled to 30x30 pixels due to computational constraints. The
 
 Download the dataset from [Kaggle](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset).
 
+## Models
+
+### Baseline Model
+- CNN with 32 filters per layer.
+- ReLU activation functions with max pooling layers.
+
+### Enhanced Model
+- Additional convolutional and dense layers.
+- Doubling the filters per layer.
+- Implemented batch normalization and zero-padding.
+- Early stopping based on validation loss.
+
+### Transfer Learning
+- Pre-trained architectures: VGG16, ResNet50, and DenseNet121.
+- Grayscale images converted to RGB format for compatibility.
+- Results were suboptimal for certain classes, especially meningioma, but improved with trainable layers.
 
