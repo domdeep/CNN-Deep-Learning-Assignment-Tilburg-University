@@ -1,8 +1,6 @@
-# CNN-Deep-Learning-Assignment-Tilburg-University
-
 # Brain Tumor Classification Using CNN
 
-This project is part of the Deep Learning course (880008-M-6), at Tilburg University, Fall 2024. The goal of this assignment is to classify brain tumors using MRI images and Convolutional Neural Networks (CNNs). This repository includes the code files in Jupyter format and the report with discussions. 
+This project is part of the Deep Learning course (880008-M-6) at Tilburg University, Fall 2024. The goal of this group assignment is to classify brain tumors using MRI images and Convolutional Neural Networks (CNNs). This repository includes the code files in Jupyter format and the report with discussions.
 
 ## Overview
 
